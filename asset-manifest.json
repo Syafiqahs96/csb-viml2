@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://syafiqahs96.github.io/csb-viml2/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://syafiqahs96.github.io/csb-viml2/static/js/main.b978bd33.chunk.js",
+    "main.js.map": "https://syafiqahs96.github.io/csb-viml2/static/js/main.b978bd33.chunk.js.map",
+    "runtime-main.js": "https://syafiqahs96.github.io/csb-viml2/static/js/runtime-main.26c0d92a.js",
+    "runtime-main.js.map": "https://syafiqahs96.github.io/csb-viml2/static/js/runtime-main.26c0d92a.js.map",
+    "static/js/2.2350909c.chunk.js": "https://syafiqahs96.github.io/csb-viml2/static/js/2.2350909c.chunk.js",
+    "static/js/2.2350909c.chunk.js.map": "https://syafiqahs96.github.io/csb-viml2/static/js/2.2350909c.chunk.js.map",
+    "index.html": "https://syafiqahs96.github.io/csb-viml2/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://syafiqahs96.github.io/csb-viml2/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2350909c.chunk.js.LICENSE.txt": "https://syafiqahs96.github.io/csb-viml2/static/js/2.2350909c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26c0d92a.js",
+    "static/js/2.2350909c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b978bd33.chunk.js"
+  ]
+}
